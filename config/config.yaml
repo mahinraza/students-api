@@ -1,0 +1,7 @@
+env: "dev"
+
+storage_path: "data/students.db"
+
+http_server:
+  host: "localhost"
+  port: 8080
